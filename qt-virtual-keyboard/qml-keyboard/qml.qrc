@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>qml/main.qml</file>
+        <file>qml/keyboard_us.xml</file>
+        <file>qml/KeyboardItem.qml</file>
+        <file>qml/Key.qml</file>
+        <file>qml/keyboard_num.xml</file>
+    </qresource>
+</RCC>
